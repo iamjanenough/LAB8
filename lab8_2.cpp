@@ -3,9 +3,6 @@
 #include <string>
 using namespace std;
 
-// ----------------------------
-// Function : findGrade
-// ----------------------------
 char findGrade(double x) {
     if(x > 90){
         return 'A';
